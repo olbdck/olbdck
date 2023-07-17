@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 ### Languages of Focus
 Today, the languages I'm most interested in are Python 🐍 and Rust 🦀; these are the languages I spend the majority of my time studying and using. I have a background in Swift/SwiftUI, Java.
